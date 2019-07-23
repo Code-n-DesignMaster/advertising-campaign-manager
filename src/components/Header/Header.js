@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Header } from '../../ui/Header';
-import { FlexRow } from '../../ui/Flex';
+import Header from '../../ui/Header';
+import FlexRow from '../../ui/Flex';
 import Avatar from '../Avatar';
 import Logo from '../../ui/Logo';
 import Navigation from '../Navigation';
